@@ -1,7 +1,7 @@
 # IBM HR Analytics - Employee Attrition & Performance 🏢
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f9aaed81-069e-4fac-ae00-2051d1e63842" alt="IBM HR Analytics - Employee Attrition & Performance 🏢" width="400"/>
+  <img src="https://github.com/user-attachments/assets/f9aaed81-069e-4fac-ae00-2051d1e63842" alt="IBM HR Analytics - Employee Attrition & Performance 🏢" width="500"/>
 </div>
 
 ## Project Overview
@@ -12,6 +12,7 @@ This project analyzes employee data from IBM to uncover key factors influencing 
 ## Dashboard
 
 ![Image](https://github.com/user-attachments/assets/edac6015-b2c0-4c6b-9ce1-2c67f1ab4e1e)
+
 ![Image](https://github.com/user-attachments/assets/ebdb785e-5c88-4a22-ab28-9dfa94f1956c)
 
 
