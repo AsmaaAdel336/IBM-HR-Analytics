@@ -1,7 +1,7 @@
 # IBM HR Analytics - Employee Attrition & Performance 🏢
 
 <div align="center">
-  <img src="![Image](https://github.com/user-attachments/assets/f9aaed81-069e-4fac-ae00-2051d1e63842)" width="500"/>
+  <img src="![Image](https://github.com/user-attachments/assets/f9aaed81-069e-4fac-ae00-2051d1e63842)" alt="IBM HR Analytics" width="500"/>
 </div>
 
 ## Project Overview
