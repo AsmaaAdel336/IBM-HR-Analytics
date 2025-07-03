@@ -13,7 +13,7 @@ This project analyzes employee data from IBM to uncover key factors influencing 
 
 ![Image](https://github.com/user-attachments/assets/edac6015-b2c0-4c6b-9ce1-2c67f1ab4e1e)
 
-![Image](https://github.com/user-attachments/assets/ebdb785e-5c88-4a22-ab28-9dfa94f1956c)
+![Image](https://github.com/user-attachments/assets/e8a3ece8-75ef-42d1-8249-6f63babe3d3a)
 
 
 ## Table of Contents
